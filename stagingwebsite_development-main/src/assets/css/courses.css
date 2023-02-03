@@ -1,0 +1,186 @@
+
+.ccards:hover{
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    transform: translateY(-15px);
+    transition: 1s;
+}
+.ccards{
+    display: inline-block;
+    width: 299px;
+    margin-right: 20px;
+    max-width: 312px;
+    padding-bottom: 25px;
+    margin-bottom: 55px;
+    margin-right: 20px;
+    border-radius: 8px;
+    border-radius: 8px;
+}
+#image-course-block{
+    min-height: 230px;
+    max-height: 230px; 
+}
+#image-course-block img{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    min-height: 230px;
+    max-height: 230px;  
+    width: 100%;
+    max-width: 312px;
+    height: 100%;
+
+}
+#second-text-block{
+    background-color: #333333 ;
+    width: 100%;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    height: 70px;
+}
+#first-text-below-image{
+    font-size: 12px;
+    font-weight: 400;
+    padding-left: 20px;
+    background-color: #333333 ;
+    color: #ffffff;
+    margin: 0px;
+    top:0px;
+    position: relative;
+    font-family: sans-serif;
+    line-height: 19.2px;
+    text-align: left;
+}
+#second-text-below-image{
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 20px;
+    background-color: #333333 ;
+    color: #ffffff;
+    margin: 0px;
+    line-height: 22.4px;
+    font-family: sans-serif;
+    text-align: left;
+}
+#third-text-below-image{
+    color: #686868;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 20px;
+    margin-top: 16px;
+    text-align: left;
+    font-family: sans-serif;
+    margin-bottom: 0px;
+    line-height: 1.6;
+}
+#fourth-text-below-image{
+    font-weight: 500;
+    color: #333333;
+    font-size: 22px;
+    line-height: 26px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    height: 78px;
+    margin-top: 0px;
+    font-family: sans-serif;
+    letter-spacing: -0.2px !important;
+    text-align: left;
+    
+}
+#fifth-text-below-image{
+    margin-left: 20px;
+    margin-bottom: 8px;
+    font-family: sans-serif;
+    text-align: left;
+    color: #686868;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    margin-top: 0px;
+}
+#courses-sixth-block{
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 16px;
+    text-align: left;
+    font-family: sans-serif;
+    line-height: 25.6px;
+}
+#sixth-first-text{
+    color: #686868;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 0px;
+
+}
+#sixth-second-text {
+    font-weight: 700;
+    font-size: 16px;
+    color: #ff484d;
+    margin-top: 0px;
+}
+#button-explore-program{
+    /* margin-left: 20px; */
+    line-height: 19px;
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    color: #333333;
+    border-radius: 8px;
+    border-color: #333333;
+    background-color:#ffffff;
+    font-weight: 500;
+    font-size: 16px;
+    border-width: 1px;
+    font-family: sans-serif;
+}
+#button-explore-program a{
+    text-decoration: none;
+    color: #333333;  
+}
+.courses-btn-ds ,.courses-btn-te ,.courses-btn-fi, .courses-btn-ma ,.courses-btn-ga, .courses-btn-pop{
+    border:solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-radius: 8px;
+    font-size: 16px;
+    padding-top: 7px;
+    padding-right: 15px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: #303030;
+    background-color:white;
+    color: #303030;
+}
+.courses-btn-ds-click,.courses-btn-te-click ,.courses-btn-fi-click ,.courses-btn-ma-click, .courses-btn-ga-click, .courses-btn-pop-click{
+    border:solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-radius: 8px;
+    font-size: 16px;
+    padding-top: 7px;
+    padding-right: 15px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: #303030;
+    background-color:#303030;
+    color: white;
+}
+#button-courses{
+    margin-bottom: 40px;
+}
+#course-block{
+    width: 87%;
+    margin: auto;
+}
+#different-course-block{
+    text-align: left;
+}

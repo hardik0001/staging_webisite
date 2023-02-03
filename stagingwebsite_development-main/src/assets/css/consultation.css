@@ -1,0 +1,197 @@
+#consultation-first-text p{
+    color: #919191;
+    font-size: 14px;
+    font-weight: 200;
+    letter-spacing: 0.055em;
+    margin-bottom: 8px;
+    line-height: 16px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding:0px;
+}
+#consultation-second-text p{
+    color: #333333;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: -0.05em;
+    margin-bottom: 13px;
+    line-height: 105.5%;
+    font-family: sans-serif;
+    padding:0px;
+}
+#consultation-third-text p {
+    margin-bottom: 20px;
+    max-width: 822px;
+    font-size: 16px;
+    height: 24px;
+    line-height: 150%;
+    color: #686868;
+    font-weight: 400;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0px;
+
+}
+.consultation-container {
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+}
+
+#inner-consultation-container {
+    max-width: 1336px;
+    padding-top: 0;
+    padding-bottom: 48px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+}
+#img-consultation{
+    max-width: 650px;
+    padding: 0px;
+}
+#details-col{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    text-align: left;
+    width: 50%;
+}
+#details-col-text1 {
+    text-align: left;
+    width: 100%;
+    font-size: 16px;
+    line-height: 150%;
+    padding-bottom: 25px;
+    color: #464646;
+    font-family: sans-serif;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#details-col-text2{
+    font-size: 16px;
+    color: #686868;
+    text-align: left;
+    line-height: 19px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+#details-col-text4{
+    color: #464646;
+    line-height: 14px;
+    text-align: left;
+    margin-bottom: 25px;
+    font-size: 12px;
+    font-weight: 400;
+}
+#details-col-text3{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+#details-col-text4{
+    text-align: center;
+    margin-bottom: 24px;
+}
+#details-col-text4 a{
+    text-decoration: none;
+    padding: 0px;
+    width: 332px;
+    height: 53px;
+    padding-top: 0px;
+    box-shadow: 0px 4px 18px rgb(0 0 0 / 10%);
+    color: #333333;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    border-radius: 8px;
+    text-align: center;
+    line-height: 53px;
+}
+#phone{
+    border: none;
+    width: 319px;
+    margin-left: 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    font-family: sans-serif;
+    line-height: 29px;
+    color: #464646;
+    letter-spacing: 0.3em;
+    border: 0;
+    border-bottom: 1px solid #e8e8e8;
+    left:0px;
+}
+
+.callme-button{
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: #333333;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 6px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #333333;
+    border-right-color: #333333;
+    border-bottom-color: #333333;
+    border-left-color: #333333;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    line-height: 19px;
+    margin-bottom: 5px;
+    width: 84px !important;
+}
+.callme-icon{
+    height: 18.5px;
+    margin-right: 10px;
+}
+#details-col-empty
+{
+    line-height: 1.6;
+    font-size: 16px;
+    font-weight: 400;
+    color: #404040;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+#details-col-validation
+{
+    border: 0;
+    border-radius: 8px;
+    padding: 24px;
+    color: #464646;
+    font-size: 16px;
+    line-height: 150%;
+    margin: 0 0 30px 0;
+    font-family: sans-serif;
+}
+#details-col-fill-validation{
+    border: 2px solid #00a0d2;
+    border-radius: none;
+    border-color:#46b450;
+    padding-bottom: 3.2px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 3.2px;
+    width: fit-content;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+.row{
+    width: 100% !important;
+}

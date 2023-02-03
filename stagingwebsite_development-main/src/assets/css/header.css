@@ -1,0 +1,90 @@
+.logo-header {
+    top: 9px;
+    left: 100px;
+    width: 235px;
+    height: 71px;
+    position: relative;
+    font-family: aktiv-grotesk, sans-serif !Important;
+}
+
+.program-button-header {
+    background-color: #c8242d;
+    color: white;
+    padding: 10px;
+    width: 140px;
+    border: none;
+    border-radius: 4px;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    box-sizing: inherit;
+    top: 14px;
+    left: 200px;
+}
+
+.inline-header-right {
+    float: left;
+    display: inline;
+    padding: 20px;
+    text-align: center;  
+    position: relative;;
+}
+.inline-header-right:hover {
+    color: red;
+}
+
+.inline-header-right .start-learning {
+    padding: 12px;
+    border-radius: 4px;
+    background-color: white;
+    position: relative;
+    top: 10px;
+    width: 140px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inline-header-right .start-learning:hover {
+    color: red;
+}
+
+.styling-header-right {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 20px;
+}
+
+.styling-header-right:hover {
+    color: red;
+}
+.outermost-fixed-text-below-header{
+    text-align: center;
+    background-color: #2e2e2e;
+    position: sticky;
+    width: 100%;
+    color: white;
+    line-height: 42px;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+.fixed-text-below-header {
+    font-size: 20px;
+    text-align: center;
+    background-color: #2e2e2e;
+    color: white;
+    line-height: 42px;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+#fixedheader{
+    position: sticky;
+    top:0px;
+    z-index: 2;
+    background-color: white;
+}
